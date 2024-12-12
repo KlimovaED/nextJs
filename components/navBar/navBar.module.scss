@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  gap:20px;
+
+  .link{
+    font-size: 20px;
+    color: #330b4a;
+  }
+ .link:hover{
+   color: #a711ff;
+  }
+
+}
+
